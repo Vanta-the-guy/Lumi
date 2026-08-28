@@ -1,5 +1,5 @@
 Lumi.init({
-    container: '#bob',
+    container: '#niche',
     columns: 8,
     rows: 4,
     gamesPerPage: 32,
